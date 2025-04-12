@@ -1,4 +1,3 @@
-## Hi there 👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drink970082&show_icons=true&theme=radical&card_width=1000)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **drink970082/drink970082** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
