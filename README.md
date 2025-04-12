@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![drink970082's GitHub stats](https://github-readme-stats.vercel.app/api?username=drink970082)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **drink970082/drink970082** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hello, this is Howard!
+- Taiwanese / NYCU IFM / Duke FinTech
+- Algo Trading / Quant Research / Quant Dev
+- ML / AI / RL
+- Python / C++ 
+
+- METALHEAD
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=21vtczlf7c73hoolhl7bvki2i&count={3})
