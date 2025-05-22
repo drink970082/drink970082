@@ -11,5 +11,5 @@ Hello, this is Howard!
 - ML / AI / RL
 - Python / C++
   
-## METALHEAD
+## Random Music
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=21vtczlf7c73hoolhl7bvki2i&width=1000)
